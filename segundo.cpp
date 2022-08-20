@@ -24,6 +24,17 @@ int main(){
 	letra = 'b';
 	cout << letra << endl;
 	
+	string palavra;
+	palavra = "papel";
+	cout << palavra << endl;
+	
+	//entrada no algoritmo de cpp
+	
+	int idade;
+	cout << "Qual a sua idade?";
+	cin >> idade;
+	cout << "idade: " << idade << endl;
+	
 	system("pause");
 	
 	return 0;
